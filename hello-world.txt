@@ -1,0 +1,3 @@
+Hi, my name is Steven.
+I am currently testing the viability of Sublime on Linux through TOP. 
+It seems pretty solid, not gonna lie. 
